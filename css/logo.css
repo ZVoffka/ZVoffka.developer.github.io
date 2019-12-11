@@ -1,0 +1,67 @@
+.row, #icon, .container {
+	/*background: #eee;*/
+}
+
+.row, .ROW {
+	width: 266px;
+	height: 63px;
+}
+
+.st0 {
+	display:none;
+}
+.st1 {
+	display:inline;
+	fill:none;
+	stroke:#000000;
+	stroke-miterlimit:10;
+}
+.st2 {
+	fill:none;
+	stroke:#000000;
+	stroke-miterlimit:10;
+}
+#P {
+	stroke-dasharray: 135;
+	stroke-dashoffset: 0;
+}
+
+#A {
+	stroke-dasharray: 123;
+	stroke-dashoffset: 0;
+}
+
+#N {
+	stroke-dasharray: 150;
+	stroke-dashoffset: 0;
+}
+
+#T {
+	stroke-dasharray: 119;
+	stroke-dashoffset: 0;
+}
+
+#E {
+	stroke-dasharray: 123;
+	stroke-dashoffset: 0;
+}
+
+#L {
+	stroke-dasharray: 94;
+	stroke-dashoffset: 0;
+}
+
+#E_1_ {
+	stroke-dasharray: 135;
+	stroke-dashoffset: 0;
+}
+
+#E_3_ {
+	stroke-dasharray: 135;
+	stroke-dashoffset: 0;
+}
+
+#V {
+	stroke-dasharray: 123;
+	stroke-dashoffset: 0;
+}
