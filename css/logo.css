@@ -1,8 +1,4 @@
-.row, #icon, .container {
-	/*background: #eee;*/
-}
-
-.row, .ROW {
+.ROW {
 	width: 266px;
 	height: 63px;
 }
